@@ -1,0 +1,147 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "firstname": "Rafhel",
+      "lastname": "Nadal",
+      "username": "rafhel",
+      "password": "12345",
+      "data":{"id":10,"employee_name":"Sonya Frost","employee_salary":103600,"employee_age":23,"profile_image":""}
+    },
+    {
+      "id": "2",
+      "firstname": "Belvin2",
+      "lastname": "D",
+      "username": "belvin2",
+      "password": "12345"
+    },
+    {
+      "id": "4",
+      "firstname": "Sachine",
+      "lastname": "Tendulkar",
+      "username": "sachine",
+      "password": "12345"
+    },
+    {
+      "id": "5",
+      "firstname": "Sara",
+      "lastname": "Tendulkar",
+      "username": "sara",
+      "password": "12345"
+    },
+    {
+      "id": "3",
+      "firstname": "Mariya",
+      "lastname": "Saraphova",
+      "username": "Mariya",
+      "password": "12345"
+    },
+    {
+      "id": "6",
+      "firstname": "Rafhel",
+      "lastname": "Nadal",
+      "username": "rafhel",
+      "password": "12345"
+    }
+  ],
+  "data": [
+    {
+      "id": 1,
+      "region": "Asia",
+      "center": "India",
+      "client": "Airtel",
+      "plane": "prepaid"
+    },
+    {
+      "region": "Africa",
+      "center": "Egypt",
+      "client": "Vodafone",
+      "plane": "Prepaid",
+      "id": 2
+    },
+    {
+      "region": "European Union",
+      "center": "Italy",
+      "client": "AirTalk",
+      "plane": "Internet Cable",
+      "id": 3
+    },
+    {
+      "region": "Middle East",
+      "center": "United Arab Emirates",
+      "client": "BSNL",
+      "plane": "FiberNet",
+      "id": 4
+    },
+    {
+      "region": "Asia",
+      "center": "China",
+      "client": "AirTalk",
+      "plane": "prepaid",
+      "id": 5
+    },
+    {
+      "region": "Asia",
+      "center": "India",
+      "client": "AirTalk",
+      "plane": "Fibernet ",
+      "id": 6
+    }
+  ],
+  "regionlist": [
+    {
+      "region": "Asia",
+      "id": 1
+    },
+    {
+      "region": "Africa",
+      "id": 2
+    },
+    {
+      "region": "Central America",
+      "id": 3
+    },
+    {
+      "region": "North America",
+      "id": 4
+    },
+    {
+      "region": "Central America",
+      "id": 5
+    }
+  ],
+  "center": [
+    {
+      "center": "India",
+      "id": 1
+    },
+    {
+      "center": "China",
+      "id": 2
+    }
+  ],
+  "network": [
+    {
+      "network": "Airtel",
+      "id": 1
+    },
+    {
+      "network": "AirTalk",
+      "id": 2
+    }
+  ],
+  "plane": [
+    {
+      "plane": "prepaid",
+      "id": 1
+    },
+    {
+      "plane": "prelist",
+      "id": 2
+    },
+    {
+      "plane": "Fibernet ",
+      "id": 3
+    }
+  ]
+}
